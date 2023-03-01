@@ -1,0 +1,5 @@
+{
+  "token": "MTA3OTQ2ODQ1MjI0NDM2OTU3OA.G5g6wL.nXxCS5s8qgWvzq7WVp1gcRLNxsCfBtNmgfYy1w",
+  "prefix": ".",
+  "mongoURI": "mongodb+srv://nae28:altinsozz@cluster0.q3tth.mongodb.net/nae28?retryWrites=true&w=majority"
+}
